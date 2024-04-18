@@ -1,0 +1,13 @@
+c:\Users\acer\Desktop\progs\rust\invaders\target\debug\deps\lewton-307ba7a8d4cda45e.rmeta: C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\lib.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\header.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\header_cached.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\huffman_tree.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\imdct.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\audio.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\bitpacking.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\inside_ogg.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\samples.rs
+
+c:\Users\acer\Desktop\progs\rust\invaders\target\debug\deps\lewton-307ba7a8d4cda45e.d: C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\lib.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\header.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\header_cached.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\huffman_tree.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\imdct.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\audio.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\bitpacking.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\inside_ogg.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\samples.rs
+
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\lib.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\header.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\header_cached.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\huffman_tree.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\imdct.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\audio.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\bitpacking.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\inside_ogg.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\lewton-0.10.2\src\samples.rs:

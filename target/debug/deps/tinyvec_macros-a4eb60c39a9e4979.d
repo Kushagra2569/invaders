@@ -1,0 +1,5 @@
+c:\Users\acer\Desktop\progs\rust\invaders\target\debug\deps\tinyvec_macros-a4eb60c39a9e4979.rmeta: C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec_macros-0.1.1\src\lib.rs
+
+c:\Users\acer\Desktop\progs\rust\invaders\target\debug\deps\tinyvec_macros-a4eb60c39a9e4979.d: C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec_macros-0.1.1\src\lib.rs
+
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\tinyvec_macros-0.1.1\src\lib.rs:

@@ -1,0 +1,12 @@
+c:\Users\acer\Desktop\progs\rust\invaders\target\debug\deps\thiserror_impl-d63c58572d334985.dll: C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\lib.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\ast.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\attr.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\expand.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\fmt.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\generics.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\prop.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\valid.rs
+
+c:\Users\acer\Desktop\progs\rust\invaders\target\debug\deps\thiserror_impl-d63c58572d334985.d: C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\lib.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\ast.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\attr.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\expand.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\fmt.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\generics.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\prop.rs C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\valid.rs
+
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\lib.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\ast.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\attr.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\expand.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\fmt.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\generics.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\prop.rs:
+C:\Users\acer\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\valid.rs:
